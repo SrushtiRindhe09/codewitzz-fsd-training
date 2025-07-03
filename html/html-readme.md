@@ -30,3 +30,17 @@
 - `<form>` – Wraps all form elements and defines where the data will be sent.
 
 ![image alt](https://github.com/SrushtiRindhe09/codewitzz-fsd-training/blob/98f3ef3ada9fde727787ac4ebc73b51194226c8d/html/form_elements.png)
+
+## Semantic Elements
+- Semantic HTML tags are HTML elements that describe their meaning to both the browser and the developer, providing clear context about the content they contain
+- By using semantic HTML, developers can create more meaningful, accessible, and SEO-friendly web pages.
+
+- `<header>`: Represents introductory content, often containing a logo, title, or navigation links.
+- `<nav>`: Defines a section of navigation links, typically used for site navigation. 
+- `<article>`: Contains independent, self-contained content, like a blog post or news article. 
+- `<section>`: Defines a distinct section within a document, often grouping related content. 
+- `<aside>`: Represents content that is tangentially related to the main content, often used for sidebars. 
+- `<footer>`: Defines a footer for a document or a section, typically containing copyright information or related links. 
+- `<main>`: Represents the main content of a page, and should be used only once per page.
+
+ ![image alt]( 
