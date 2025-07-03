@@ -29,3 +29,4 @@
 - `<button>` – Clickable buttons for submitting or resetting forms.
 - `<form>` – Wraps all form elements and defines where the data will be sent.
 
+![image alt](https://github.com/SrushtiRindhe09/codewitzz-fsd-training/blob/98f3ef3ada9fde727787ac4ebc73b51194226c8d/html/form_elements.png)
