@@ -45,20 +45,19 @@
 
  ![image alt](https://github.com/SrushtiRindhe09/codewitzz-fsd-training/blob/a45c02fa53e6069e2f20db04843f168af1a5b467/html/semantic_elements.png)
 
- ## Image Tag
+## Image Tag
 - The HTML <img> tag uses attributes to define and control how images are displayed on a webpage.
 - ### Attributes
 - src: Specifies the path to the image
 - alt: Specifies an alternate text for the image
 - Syntax: `<img src="url" alt="alternatetext">`
 
- ## Anchor tag
+## Anchor tag
 - creates a hyperlink to web pages, files, email addresses, locations in the same page, or anything else a URL can address.
 - The most important attribute of the `<a>` element is the href attribute, which indicates the link's destination.
 - Syntax: `<a href="url">link text</a>`
 
  
-
 ## Audio Control
   - To embed audio with controls in HTML, use the <audio> tag with the controls attribute. This will display default browser controls `(play, pause, volume, etc.)`
   - The controls attribute adds audio controls, like play, pause, and volume.
