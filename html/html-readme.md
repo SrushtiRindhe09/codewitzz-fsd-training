@@ -16,7 +16,7 @@
 - `<label>`: Provides a caption for an <input> element, improving accessibility. 
 - `<button>`: Creates a clickable button, often used to submit the form. 
 - `<select>`: Creates a dropdown list (also known as a select box). 
-- `<option>`: Represents an item within a <select> dropdown list. 
+- `<option>`: Represents an item within a <select> dropdown list.
 - `<progress>`: Represents the progress of a task, often displayed as a progress bar.
 
 - ### Form inputs
