@@ -57,7 +57,7 @@
 - The most important attribute of the `<a>` element is the href attribute, which indicates the link's destination.
 - Syntax: `<a href="url">link text</a>`
 
-  ![image alt](
+ 
 
 ## Audio Control
   - To embed audio with controls in HTML, use the <audio> tag with the controls attribute. This will display default browser controls `(play, pause, volume, etc.)`
@@ -67,5 +67,4 @@
 ## Video Control
 - HTML provides the `<video>` tag to embed videos on a webpage. By adding the `controls` attribute, built-in playback controls like play, pause, volume, and fullscreen become available to users.
 
-  ![image alt](
 
